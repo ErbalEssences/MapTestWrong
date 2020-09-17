@@ -1,0 +1,3 @@
+C:\GK\fueledMap\fueledMap\obj\Debug\fueledMap.njsprojAssemblyReference.cache
+C:\GK\fueledMap\fueledMap\obj\Debug\fueledMap.njsproj.CoreCompileInputs.cache
+C:\GK\fueledMap\fueledMap\bin\Microsoft.NodejsTools.WebRole.dll
